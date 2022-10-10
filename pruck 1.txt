@@ -1,0 +1,12 @@
+¿ Que signific ?
+CLS - Para limpiar
+CD + ? Es para  ir a la pagina anterior 
+MD + ? Make - hacer
+Echo - para cambiar 
+Color + ? + ? - sirven este comando para cambiar el color de las letras y fondo 
+DIR - La traducción de Directory.Vemos que abrimos como archivos o documentos y la hora que lo abrimos 
+
+¿Comó se abre la consola ? window + R
+
+>:Para qué es - para una direccion 
+*:Qué significa - agregar
